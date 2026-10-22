@@ -1,4 +1,4 @@
-# PYTHON_BASICS02FIB_25BCON2534
+#PYTHON_basics_fibonacci_25Bcon2534
 
 # Fibonacci Number Calculator
 
